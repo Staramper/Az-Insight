@@ -1,0 +1,25 @@
+{
+  "public_html/img/logo/fondo.png": {
+    "file": "assets/fondo-DADh6em2.png",
+    "src": "public_html/img/logo/fondo.png"
+  },
+  "resources/img/ama1.jpeg": {
+    "file": "assets/ama1-3b8zwhDJ.jpeg",
+    "src": "resources/img/ama1.jpeg"
+  },
+  "resources/img/lab2.jpeg": {
+    "file": "assets/lab2-BWl7rTPu.jpeg",
+    "src": "resources/img/lab2.jpeg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BTeKHfI9.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-BP05TLrd.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}

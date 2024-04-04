@@ -1,0 +1,23 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// css
+@import '../css/style.css';
+
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+// datepicker
+// @import '@vuepic/vue-datepicker/dist/main.css';
+
+//Datatables
+@import url('https://cdn.datatables.net/1.13.5/css/dataTables.bootstrap5.min.css');
+@import url('https://cdn.datatables.net/v/bs5/jszip-3.10.1/dt-1.13.5/b-2.4.1/b-colvis-2.4.1/b-html5-2.4.1/b-print-2.4.1/datatables.css');
+@import url('https://cdn.datatables.net/buttons/2.4.1/css/buttons.dataTables.min.css');
+
+// custom
+@import 'custom';

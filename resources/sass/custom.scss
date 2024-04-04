@@ -1,0 +1,61 @@
+// VARIABLES
+$principal: #540034;
+$secondary: #A5D7E8;
+
+// DISEÑOS PERSONALIZADOS
+.h-screen {
+  height: 100vh;
+}
+
+html{
+  font-size: 13px;
+}
+
+@media (min-width: 768px){
+  html{
+    font-size: 16px
+  }
+}
+
+.text-primary{
+  color: $principal;
+}
+
+body{
+//   font-family: 'Nunito Sans', sans-serif;
+  font-family: "Playfair Display", serif;
+}
+
+.fondo{
+  background-image: url('/public_html/img/logo/fondo.png');
+}
+
+.sidebar-dark-blue{
+    background: $principal !important;
+}
+
+.bg-dark{
+  background-color: $principal !important;
+}
+
+.btn-primary{
+ background-color: #830051;
+}
+
+  #canvass {
+    background-color: #000;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 100px;
+    padding: 0px;
+    position: static; /* fixed or static */
+    /* top: 100px;
+    left: 100px; */
+  }
+
+  #mapa {
+        width: 100%;
+        height: 100%;
+        overflow: hidden; /* Evita que el contenido se desborde */
+  }
